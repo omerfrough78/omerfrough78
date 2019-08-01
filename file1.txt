@@ -1,6 +1,0 @@
-create file1
-what is your name
-
-
-
-hi i am omer
